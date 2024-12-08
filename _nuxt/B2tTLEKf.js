@@ -1,0 +1,1 @@
+import{s as n,o,c as s,a9 as r}from"./Cm-w5V6W.js";const l=n({__name:"loader.component",props:{fontSize:{default:.5}},setup(t){return(e,a)=>(o(),s("span",{style:r({"font-size":`${e.fontSize}rem`}),class:"spinner-border"},null,4))}});export{l as _};
